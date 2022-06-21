@@ -4,7 +4,7 @@ The goal of this project is to create algorithms that will determine where are t
 ## Details for certification
 * email : amina.nasri@gmail.com
 * video link : https://share.vidyard.com/watch/SMpPtH3ky7Top6t58Auvh4?
-*
+
 ## Project goals and deliverables
 * Create an algorithm to find hot zones 
 * Visualize results on a nice dashboard 
