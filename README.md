@@ -1,6 +1,10 @@
 # How to reduce waiting time for Uber clients by showing hotzones to Drivers in Manhatan, New York
 The goal of this project is to create algorithms that will determine where are the hot-zones that Uber drivers should be in to avoid making clients wait more than 5mn 
 
+## Details for certification
+* email : amina.nasri@gmail.com
+* video link : https://share.vidyard.com/watch/SMpPtH3ky7Top6t58Auvh4?
+*
 ## Project goals and deliverables
 * Create an algorithm to find hot zones 
 * Visualize results on a nice dashboard 
